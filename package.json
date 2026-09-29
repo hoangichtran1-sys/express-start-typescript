@@ -24,6 +24,7 @@
         "@types/cors": "^2.8.19",
         "@types/express": "^5.0.6",
         "@types/node": "^26.5.1",
+        "@types/nodemailer": "^8.0.2",
         "@types/passport": "^1.0.17",
         "@types/passport-google-oauth20": "^2.0.17",
         "@types/pg": "^8.23.1",
@@ -38,7 +39,6 @@
     "dependencies": {
         "@asteasolutions/zod-to-openapi": "^9.1.0",
         "@neondatabase/serverless": "^1.1.0",
-        "@types/nodemailer": "^8.0.2",
         "argon2": "^0.45.1",
         "compression": "^1.8.2",
         "cookie-parser": "^1.4.7",

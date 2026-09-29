@@ -14,9 +14,6 @@ importers:
       '@neondatabase/serverless':
         specifier: ^1.1.0
         version: 1.1.0
-      '@types/nodemailer':
-        specifier: ^8.0.2
-        version: 8.0.2
       argon2:
         specifier: ^0.45.1
         version: 0.45.1
@@ -102,6 +99,9 @@ importers:
       '@types/node':
         specifier: ^26.5.1
         version: 26.5.1
+      '@types/nodemailer':
+        specifier: ^8.0.2
+        version: 8.0.2
       '@types/passport':
         specifier: ^1.0.17
         version: 1.0.17
